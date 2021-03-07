@@ -1,0 +1,12 @@
+<meta>
+	<info author="Mcnciolas208" name="nee" version="1.0" type="script" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client"/>
+	<file src="edoo.mp3" />
+    	<file src="gedo/des_n.txd" />
+    	<file src="gedo/montala.col" />
+    	<file src="gedo/n_bit_07.dff" />
+    	<file src="gedo/des_n-2.txd" />
+    	<file src="gedo/montala-2.col" />
+    	<file src="gedo/n_bit_07-2.dff" />
+</meta>
